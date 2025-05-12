@@ -60,9 +60,9 @@ I once created a smart desktop assistant that could chat, open apps, read PDFs a
 
 ## 🌐 Let's Connect:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/supriya-sp)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/supriya-sri-perambudhur-8a650725b/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github)](https://github.com/Sp-supriya)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:sprsupriya@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:supriyasp1504@gmail.com)
 
 ---
 
