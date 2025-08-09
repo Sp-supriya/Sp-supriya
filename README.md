@@ -1,6 +1,6 @@
 ## 💫 About Me:
 
-<img src="https://media.giphy.com/media/xUPGcgtKxm3zJbNuHS/giphy.gif" width="200" align="right">
+
 
 ### 👩‍💻 Supriya | CSE (AI & ML) Student | AI Enthusiast | Tech Explorer
 
